@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-website/static/css/main.64cbafee.css",
+    "main.js": "/react-website/static/js/main.8483cdb0.js",
+    "static/media/helvetica-neu.ttf": "/react-website/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/react-website/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/logo-s.png": "/react-website/static/media/logo-s.49c2f059d8165cc20789.png",
+    "static/media/LaBelleAurore.woff2": "/react-website/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff": "/react-website/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/logo_sub.png": "/react-website/static/media/logo_sub.aa67689cd791f8ad2087.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/react-website/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/react-website/index.html",
+    "main.64cbafee.css.map": "/react-website/static/css/main.64cbafee.css.map",
+    "main.8483cdb0.js.map": "/react-website/static/js/main.8483cdb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64cbafee.css",
+    "static/js/main.8483cdb0.js"
+  ]
+}
